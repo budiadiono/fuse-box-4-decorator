@@ -1,6 +1,10 @@
-## Fusebox 4 (Alpha) Decorator Test
+## Fusebox 4 (4.0.0-alpha.321) Decorator Test
 
 Could not bundle decorator for method with no parameter
+
+### UPDATE
+
+Fixed on 4.0.0-alpha.327
 
 ### Install
 
