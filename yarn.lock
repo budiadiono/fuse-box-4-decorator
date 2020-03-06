@@ -389,10 +389,10 @@ fsevents@~2.1.2:
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.1.2.tgz#4c0a1fb34bc68e543b4b82a9ec392bfbda840805"
   integrity sha512-R4wDiBwZ0KzpgOWetKDug1FZcYhqYnUYKtfZYt4mD5SBz76q0KR4Q9o7GIPamsVPGmW3EYPPJ0dOOjvx32ldZA==
 
-fuse-box@4.0.0-alpha.321:
-  version "4.0.0-alpha.321"
-  resolved "https://registry.yarnpkg.com/fuse-box/-/fuse-box-4.0.0-alpha.321.tgz#5e8f74fb40b4fd48d4705857826ff3a736a1be6b"
-  integrity sha512-M5KUdJflgxLMGhEiMzXi8FyAzcY9z/ydZw5JRSSIxTHPIV+1KmMz/NI1UIFRX06GjBxWwEWcskqjHVgT96mw3Q==
+fuse-box@4.0.0-alpha.327:
+  version "4.0.0-alpha.327"
+  resolved "https://registry.yarnpkg.com/fuse-box/-/fuse-box-4.0.0-alpha.327.tgz#0d825cff5def6b4144b1d184edf5fe8758cbfbf2"
+  integrity sha512-xBhIofGetW4vS/YC/x+GsHYeOIIIAAJP1ET+ufgWMuSaisisM+tv70+RjX7GeQwMC4NRziaMiaq4QTTqbx/FWg==
   dependencies:
     "@typescript-eslint/typescript-estree" "^2.21.0"
     app-root-path "^3.0.0"
